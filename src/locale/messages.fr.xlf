@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="nav.support" datatype="html">
+        <source>Support</source>
+        <target>Support</target>
+      </trans-unit>
+      <trans-unit id="nav.privacy" datatype="html">
+        <source>Privacy</source>
+        <target>Confidentialité</target>
+      </trans-unit>
+      <trans-unit id="route.title.home" datatype="html">
+        <source>IntuiFit — Log a set in 3 seconds</source>
+        <target>IntuiFit — Enregistre une série en 3 secondes</target>
+      </trans-unit>
+      <trans-unit id="route.title.support" datatype="html">
+        <source>Support — IntuiFit</source>
+        <target>Support — IntuiFit</target>
+      </trans-unit>
+      <trans-unit id="route.title.privacy" datatype="html">
+        <source>Privacy Policy — IntuiFit</source>
+        <target>Politique de confidentialité — IntuiFit</target>
+      </trans-unit>
+      <trans-unit id="meta.description" datatype="html">
+        <source>IntuiFit is a minimalist iOS workout tracker. Log a set in 3 seconds. No setup. No ads.</source>
+        <target>IntuiFit est un tracker de musculation iOS minimaliste. Enregistre une série en 3 secondes. Aucune configuration. Aucune pub.</target>
+      </trans-unit>
+      <trans-unit id="home.hero.title" datatype="html">
+        <source>Log a set<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>3 seconds<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</source>
+        <target>Enregistre une série<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>en <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>3 secondes<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="home.hero.tagline" datatype="html">
+        <source>No setup. No ads. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> is the workout tracker that gets out of your way — open it, validate your set, get back to lifting.</source>
+        <target>Aucune configuration. Aucune pub. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> est le tracker de musculation qui se fait oublier : tu l'ouvres, tu valides ta série, tu retournes soulever.</target>
+      </trans-unit>
+      <trans-unit id="home.mock.exercise" datatype="html">
+        <source>Bench Press</source>
+        <target>Développé couché</target>
+      </trans-unit>
+      <trans-unit id="home.mock.setcount" datatype="html">
+        <source>Set <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</source>
+        <target>Série <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</target>
+      </trans-unit>
+      <trans-unit id="home.mock.reps" datatype="html">
+        <source>Reps</source>
+        <target>Reps</target>
+      </trans-unit>
+      <trans-unit id="home.mock.validate" datatype="html">
+        <source>Validate set</source>
+        <target>Valider la série</target>
+      </trans-unit>
+      <trans-unit id="home.stats.log" datatype="html">
+        <source>To log a set</source>
+        <target>Pour enregistrer une série</target>
+      </trans-unit>
+      <trans-unit id="home.stats.ads" datatype="html">
+        <source>Ads, ever</source>
+        <target>Pub, jamais</target>
+      </trans-unit>
+      <trans-unit id="home.stats.setup" datatype="html">
+        <source>Setup required</source>
+        <target>Configuration requise</target>
+      </trans-unit>
+      <trans-unit id="home.features.eyebrow" datatype="html">
+        <source>Why IntuiFit</source>
+        <target>Pourquoi IntuiFit</target>
+      </trans-unit>
+      <trans-unit id="home.features.1.title" datatype="html">
+        <source>3-second logging</source>
+        <target>Saisie en 3 secondes</target>
+      </trans-unit>
+      <trans-unit id="home.features.1.body" datatype="html">
+        <source>Giant steppers, one tap to validate, done.</source>
+        <target>Des steppers géants, un tap pour valider, c'est fait.</target>
+      </trans-unit>
+      <trans-unit id="home.features.2.title" datatype="html">
+        <source>Zero setup</source>
+        <target>Zéro configuration</target>
+      </trans-unit>
+      <trans-unit id="home.features.2.body" datatype="html">
+        <source>No program to build. IntuiFit learns from how you train.</source>
+        <target>Aucun programme à créer. IntuiFit apprend de ta façon de t'entraîner.</target>
+      </trans-unit>
+      <trans-unit id="home.features.3.title" datatype="html">
+        <source>No ads. Ever.</source>
+        <target>Pas de pub. Jamais.</target>
+      </trans-unit>
+      <trans-unit id="home.features.3.body" datatype="html">
+        <source>Free forever for unlimited tracking. Premium = iCloud sync.</source>
+        <target>Gratuit à vie pour un suivi illimité. Premium = sync iCloud.</target>
+      </trans-unit>
+      <trans-unit id="home.cta.title" datatype="html">
+        <source>Your next set<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>starts <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>now<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</source>
+        <target>Ta prochaine série<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>commence <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>maintenant<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="home.cta.body" datatype="html">
+        <source>Free forever for unlimited tracking. No account needed.</source>
+        <target>Gratuit à vie pour un suivi illimité. Aucun compte requis.</target>
+      </trans-unit>
+      <trans-unit id="privacy.eyebrow" datatype="html">
+        <source>Your data is yours</source>
+        <target>Vos données vous appartiennent</target>
+      </trans-unit>
+      <trans-unit id="privacy.title" datatype="html">
+        <source>Privacy Policy</source>
+        <target>Politique de confidentialité</target>
+      </trans-unit>
+      <trans-unit id="privacy.updated" datatype="html">
+        <source>Last updated: June 2026</source>
+        <target>Dernière mise à jour : juin 2026</target>
+      </trans-unit>
+      <trans-unit id="privacy.s1.h" datatype="html">
+        <source>Data controller</source>
+        <target>Responsable du traitement</target>
+      </trans-unit>
+      <trans-unit id="privacy.s1.p1" datatype="html">
+        <source>IntuiFit (the iOS app and this website) is developed and operated by <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Gaétan La Selve<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, an independent developer established in <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>France<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. For any question regarding this policy or your data, contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <target>IntuiFit (l'app iOS et ce site) est développé et exploité par <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Gaétan La Selve<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, développeur indépendant établi en <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>France<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Pour toute question concernant cette politique ou vos données, contactez <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s2.h" datatype="html">
+        <source>Data we collect</source>
+        <target>Données que nous collectons</target>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p1" datatype="html">
+        <source>IntuiFit records the workout data you enter in the app: workout sessions, sets, and exercises. This data is stored <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>locally on your device only<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, using Apple&apos;s on-device persistence framework (SwiftData), and remains there until you delete it or uninstall the app. It is never transmitted to the developer.</source>
+        <target>IntuiFit enregistre les données d'entraînement que vous saisissez dans l'app : séances, séries et exercices. Ces données sont stockées <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>uniquement en local sur votre appareil<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, via le framework de persistance sur l'appareil d'Apple (SwiftData), et y restent jusqu'à ce que vous les supprimiez ou désinstalliez l'app. Elles ne sont jamais transmises au développeur.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p2" datatype="html">
+        <source>There is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no account, no registration, no tracking, no analytics, and no ads<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. The app does not collect personal information, device identifiers, or usage statistics.</source>
+        <target>Il n'y a <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>aucun compte, aucune inscription, aucun pistage, aucune analyse et aucune publicité<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. L'app ne collecte aucune information personnelle, aucun identifiant d'appareil ni aucune statistique d'usage.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p3" datatype="html">
+        <source>Where processing falls under the GDPR, its legal basis is the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>performance of a contract<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (Art. 6(1)(b)): providing the workout-tracking service you requested.</source>
+        <target>Lorsque le traitement relève du RGPD, sa base légale est l'<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>exécution d'un contrat<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (art. 6(1)(b)) : fournir le service de suivi d'entraînement que vous avez demandé.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s3.h" datatype="html">
+        <source>iCloud sync (Premium)</source>
+        <target>Synchronisation iCloud (Premium)</target>
+      </trans-unit>
+      <trans-unit id="privacy.s3.p1" datatype="html">
+        <source>If you subscribe to Premium, your workout data is synced across your devices via <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Apple CloudKit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, in your private iCloud database. This data is tied to your Apple ID, encrypted by Apple, and <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>not accessible to the developer<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> under any circumstances.</source>
+        <target>Si vous souscrivez à Premium, vos données d'entraînement sont synchronisées entre vos appareils via <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Apple CloudKit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, dans votre base de données iCloud privée. Ces données sont liées à votre identifiant Apple, chiffrées par Apple et <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>inaccessibles au développeur<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> en toutes circonstances.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s3.p2" datatype="html">
+        <source>Apple may store iCloud data on servers located outside the European Union, including in the United States. These transfers are governed by Apple&apos;s own safeguards, including the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>EU-U.S. Data Privacy Framework<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> and standard contractual clauses. See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.apple.com/legal/privacy/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>Apple&apos;s privacy policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for details.</source>
+        <target>Apple peut stocker les données iCloud sur des serveurs situés hors de l'Union européenne, y compris aux États-Unis. Ces transferts sont encadrés par les garanties propres à Apple, notamment le <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>cadre de protection des données UE–États-Unis (Data Privacy Framework)<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> et des clauses contractuelles types. Voir la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.apple.com/legal/privacy/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>politique de confidentialité d'Apple<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> pour en savoir plus.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s4.h" datatype="html">
+        <source>Premium subscription &amp; payments</source>
+        <target>Abonnement Premium et paiements</target>
+      </trans-unit>
+      <trans-unit id="privacy.s4.p1" datatype="html">
+        <source>The Premium subscription is purchased and billed exclusively through <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Apple&apos;s App Store<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Payment is processed by Apple: the developer <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>never receives your payment details<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (card number, billing address, or identity). Apple only provides the developer with anonymized, aggregated transaction reports needed to operate the service.</source>
+        <target>L'abonnement Premium est acheté et facturé exclusivement via l'<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>App Store d'Apple<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Le paiement est traité par Apple : le développeur <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>ne reçoit jamais vos informations de paiement<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (numéro de carte, adresse de facturation ou identité). Apple ne fournit au développeur que des rapports de transaction anonymisés et agrégés, nécessaires au fonctionnement du service.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s5.h" datatype="html">
+        <source>Apple Health</source>
+        <target>Apple Santé</target>
+      </trans-unit>
+      <trans-unit id="privacy.s5.p1" datatype="html">
+        <source>If — and only if — you grant permission, IntuiFit writes workout summaries to Apple Health. The app <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>never reads<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> any data from Apple Health, and Health data is never transmitted to the developer or any third party.</source>
+        <target>Si — et seulement si — vous l'autorisez, IntuiFit écrit des résumés d'entraînement dans Apple Santé. L'app <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>ne lit jamais<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> aucune donnée d'Apple Santé, et les données de santé ne sont jamais transmises au développeur ni à un tiers.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s6.h" datatype="html">
+        <source>Third parties</source>
+        <target>Tiers</target>
+      </trans-unit>
+      <trans-unit id="privacy.s6.p1" datatype="html">
+        <source>No data is sold, shared, or transferred to third parties. IntuiFit contains no third-party SDKs, advertising frameworks, or analytics services.</source>
+        <target>Aucune donnée n'est vendue, partagée ou transférée à des tiers. IntuiFit ne contient aucun SDK tiers, aucun framework publicitaire ni service d'analyse.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s7.h" datatype="html">
+        <source>Support emails</source>
+        <target>E-mails de support</target>
+      </trans-unit>
+      <trans-unit id="privacy.s7.p1" datatype="html">
+        <source>If you contact support, we process your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>email address and the content of your message<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> for the sole purpose of answering you (legal basis: our legitimate interest in providing support, Art. 6(1)(f) GDPR). Support emails are kept only as long as needed to resolve your request, and no longer than <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>two years<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, then deleted.</source>
+        <target>Si vous contactez le support, nous traitons votre <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>adresse e-mail et le contenu de votre message<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> dans le seul but de vous répondre (base légale : notre intérêt légitime à fournir une assistance, art. 6(1)(f) RGPD). Les e-mails de support ne sont conservés que le temps nécessaire au traitement de votre demande, et pas plus de <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>deux ans<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, puis supprimés.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s8.h" datatype="html">
+        <source>This website</source>
+        <target>Ce site web</target>
+      </trans-unit>
+      <trans-unit id="privacy.s8.p1" datatype="html">
+        <source>This website is edited by Gaétan La Selve as a private individual, and hosted on <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>GitHub Pages<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, operated by GitHub, Inc., 88 Colin P. Kelly Jr Street, San Francisco, CA 94107, USA. Like any web host, GitHub may log visitors&apos; IP addresses for security and operational purposes; see <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>GitHub&apos;s privacy statement<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <target>Ce site est édité par Gaétan La Selve en tant que particulier, et hébergé sur <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>GitHub Pages<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, exploité par GitHub, Inc., 88 Colin P. Kelly Jr Street, San Francisco, CA 94107, États-Unis. Comme tout hébergeur web, GitHub peut journaliser les adresses IP des visiteurs à des fins de sécurité et d'exploitation ; voir la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>déclaration de confidentialité de GitHub<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s8.p2" datatype="html">
+        <source>The website itself sets <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no cookies<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, runs <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no analytics<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, and loads <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no third-party resources<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> — fonts are self-hosted, so no request is sent to font providers.</source>
+        <target>Le site lui-même ne dépose <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>aucun cookie<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, n'exécute <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>aucune analyse<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> et ne charge <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>aucune ressource tierce<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> — les polices sont auto-hébergées, donc aucune requête n'est envoyée aux fournisseurs de polices.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s9.h" datatype="html">
+        <source>Data deletion</source>
+        <target>Suppression des données</target>
+      </trans-unit>
+      <trans-unit id="privacy.s9.p1" datatype="html">
+        <source>Deleting the app removes all local data from your device. If you used iCloud sync, you can delete the synced data at any time via iOS <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Settings → iCloud → Manage Storage<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target>Supprimer l'app efface toutes les données locales de votre appareil. Si vous avez utilisé la synchronisation iCloud, vous pouvez supprimer les données synchronisées à tout moment via iOS <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Réglages → iCloud → Gérer le stockage<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s10.h" datatype="html">
+        <source>Your rights</source>
+        <target>Vos droits</target>
+      </trans-unit>
+      <trans-unit id="privacy.s10.p1" datatype="html">
+        <source>Because the developer is established in France, the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>GDPR applies to all users<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, wherever you are located. You may exercise at any time your rights of <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>access, rectification, erasure, portability, restriction of processing, and objection<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> by emailing <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. Note that since all workout data lives on your device or in your private iCloud, you already hold direct control over it.</source>
+        <target>Parce que le développeur est établi en France, le <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>RGPD s'applique à tous les utilisateurs<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, où que vous soyez. Vous pouvez exercer à tout moment vos droits d'<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>accès, de rectification, d'effacement, de portabilité, de limitation du traitement et d'opposition<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> en écrivant à <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. Notez que, puisque toutes les données d'entraînement résident sur votre appareil ou dans votre iCloud privé, vous en avez déjà le contrôle direct.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s10.p2" datatype="html">
+        <source>You also have the right to lodge a complaint with a supervisory authority — in France, the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>CNIL<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.cnil.fr&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>cnil.fr<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>) — or with the authority of your country of residence.</source>
+        <target>Vous avez également le droit d'introduire une réclamation auprès d'une autorité de contrôle — en France, la <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>CNIL<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.cnil.fr&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>cnil.fr<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>) — ou auprès de l'autorité de votre pays de résidence.</target>
+      </trans-unit>
+      <trans-unit id="privacy.s11.h" datatype="html">
+        <source>Changes to this policy</source>
+        <target>Modifications de cette politique</target>
+      </trans-unit>
+      <trans-unit id="privacy.s11.p1" datatype="html">
+        <source>This policy may be updated to reflect changes in the app or in applicable law. The current version is always available at this address, with its &quot;last updated&quot; date shown above. Material changes will be highlighted in the app&apos;s release notes.</source>
+        <target>Cette politique peut être mise à jour pour refléter des évolutions de l'app ou de la législation applicable. La version en vigueur est toujours disponible à cette adresse, avec sa date de « dernière mise à jour » indiquée ci-dessus. Les changements importants seront signalés dans les notes de version de l'app.</target>
+      </trans-unit>
+      <trans-unit id="support.eyebrow" datatype="html">
+        <source>Need a hand?</source>
+        <target>Besoin d'un coup de main ?</target>
+      </trans-unit>
+      <trans-unit id="support.title" datatype="html">
+        <source>Support</source>
+        <target>Support</target>
+      </trans-unit>
+      <trans-unit id="support.sub" datatype="html">
+        <source>Questions, bugs, ideas — there&apos;s a human on the other side, and he lifts too.</source>
+        <target>Questions, bugs, idées — il y a un humain en face, et il soulève de la fonte aussi.</target>
+      </trans-unit>
+      <trans-unit id="support.email.label" datatype="html">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="support.email.meta" datatype="html">
+        <source>Usually answered within 48 hours.</source>
+        <target>Réponse généralement sous 48 heures.</target>
+      </trans-unit>
+      <trans-unit id="support.faq.q1" datatype="html">
+        <source>How do I log a set?</source>
+        <target>Comment enregistrer une série ?</target>
+      </trans-unit>
+      <trans-unit id="support.faq.a1" datatype="html">
+        <source>Tap an exercise on the Home screen, adjust weight and reps with the steppers, tap <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>&quot;Validate set&quot;<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target>Touchez un exercice sur l'écran d'accueil, ajustez le poids et les répétitions avec les steppers, puis touchez <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>« Valider la série »<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="support.faq.q2" datatype="html">
+        <source>Where is my data stored?</source>
+        <target>Où sont stockées mes données ?</target>
+      </trans-unit>
+      <trans-unit id="support.faq.a2" datatype="html">
+        <source>Locally on your device. iCloud sync is available with <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Premium<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target>En local sur votre appareil. La synchronisation iCloud est disponible avec <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Premium<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</target>
+      </trans-unit>
+      <trans-unit id="support.faq.q3" datatype="html">
+        <source>How do I cancel Premium?</source>
+        <target>Comment annuler Premium ?</target>
+      </trans-unit>
+      <trans-unit id="support.faq.a3" datatype="html">
+        <source>Go to iOS <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Settings → Apple ID → Subscriptions → IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target>Allez dans <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Réglages → Identifiant Apple → Abonnements → IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> sur iOS.</target>
+      </trans-unit>
+      <trans-unit id="support.faq.q4" datatype="html">
+        <source>I found a bug, how do I report it?</source>
+        <target>J'ai trouvé un bug, comment le signaler ?</target>
+      </trans-unit>
+      <trans-unit id="support.faq.a4" datatype="html">
+        <source>Email <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>codebygaetan@gmail.com<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> with your iOS version and a description of the issue.</source>
+        <target>Envoyez un e-mail à <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>codebygaetan@gmail.com<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> avec votre version d'iOS et une description du problème.</target>
+      </trans-unit>
+      <trans-unit id="badge.aria" datatype="html">
+        <source>Download IntuiFit on the App Store</source>
+        <target>Télécharger IntuiFit sur l'App Store</target>
+      </trans-unit>
+      <trans-unit id="badge.download" datatype="html">
+        <source>Download on the</source>
+        <target>Télécharger sur</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

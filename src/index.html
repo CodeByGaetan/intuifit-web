@@ -9,6 +9,28 @@
   <meta name="theme-color" content="#0a0a0a">
   <link rel="icon" type="image/svg+xml" href="logo.svg">
   <link rel="alternate icon" type="image/x-icon" href="favicon.ico">
+  <link rel="alternate" hreflang="en" href="https://codebygaetan.github.io/intuifit-web/">
+  <link rel="alternate" hreflang="fr" href="https://codebygaetan.github.io/intuifit-web/fr/">
+  <link rel="alternate" hreflang="x-default" href="https://codebygaetan.github.io/intuifit-web/">
+  <script>
+    // Locale redirect — runs before Angular boots to avoid a flash of the wrong
+    // language. The build injects the per-locale <base href>, so we read it to
+    // know which version we're on and where its sibling lives.
+    (function () {
+      try {
+        var base = document.querySelector('base');
+        var href = base ? base.getAttribute('href') : '/';
+        var onFr = /\/fr\/$/.test(href);
+        var stored = localStorage.getItem('intuifit-lang'); // 'en' | 'fr' | null
+        var want = stored || ((navigator.language || 'en').toLowerCase().indexOf('fr') === 0 ? 'fr' : 'en');
+        if (want === 'fr' && !onFr) {
+          location.replace(href + 'fr/' + location.hash);
+        } else if (want === 'en' && onFr) {
+          location.replace(href.replace(/fr\/$/, '') + location.hash);
+        }
+      } catch (e) {}
+    })();
+  </script>
 </head>
 <body>
   <app-root></app-root>

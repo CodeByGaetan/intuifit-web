@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="nav.support" datatype="html">
+        <source>Support</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.html</context>
+          <context context-type="linenumber">22,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav.privacy" datatype="html">
+        <source>Privacy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="route.title.home" datatype="html">
+        <source>IntuiFit — Log a set in 3 seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routes.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="route.title.support" datatype="html">
+        <source>Support — IntuiFit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routes.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="route.title.privacy" datatype="html">
+        <source>Privacy Policy — IntuiFit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routes.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="meta.description" datatype="html">
+        <source>IntuiFit is a minimalist iOS workout tracker. Log a set in 3 seconds. No setup. No ads.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.hero.title" datatype="html">
+        <source>Log a set<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>3 seconds<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.hero.tagline" datatype="html">
+        <source>No setup. No ads. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> is the workout tracker that gets out of your way — open it, validate your set, get back to lifting.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.mock.exercise" datatype="html">
+        <source>Bench Press</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.mock.setcount" datatype="html">
+        <source>Set <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.mock.reps" datatype="html">
+        <source>Reps</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.mock.validate" datatype="html">
+        <source>Validate set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.stats.log" datatype="html">
+        <source>To log a set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.stats.ads" datatype="html">
+        <source>Ads, ever</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.stats.setup" datatype="html">
+        <source>Setup required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">34,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.eyebrow" datatype="html">
+        <source>Why IntuiFit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">40,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.1.title" datatype="html">
+        <source>3-second logging</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.1.body" datatype="html">
+        <source>Giant steppers, one tap to validate, done.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.2.title" datatype="html">
+        <source>Zero setup</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.2.body" datatype="html">
+        <source>No program to build. IntuiFit learns from how you train.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">51,53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.3.title" datatype="html">
+        <source>No ads. Ever.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.features.3.body" datatype="html">
+        <source>Free forever for unlimited tracking. Premium = iCloud sync.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">56,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.cta.title" datatype="html">
+        <source>Your next set<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/>starts <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;accent&quot;&gt;"/>now<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">63,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.cta.body" datatype="html">
+        <source>Free forever for unlimited tracking. No account needed.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.eyebrow" datatype="html">
+        <source>Your data is yours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.title" datatype="html">
+        <source>Privacy Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.updated" datatype="html">
+        <source>Last updated: June 2026</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s1.h" datatype="html">
+        <source>Data controller</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s1.p1" datatype="html">
+        <source>IntuiFit (the iOS app and this website) is developed and operated by <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Gaétan La Selve<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, an independent developer established in <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>France<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. For any question regarding this policy or your data, contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s2.h" datatype="html">
+        <source>Data we collect</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p1" datatype="html">
+        <source>IntuiFit records the workout data you enter in the app: workout sessions, sets, and exercises. This data is stored <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>locally on your device only<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, using Apple&apos;s on-device persistence framework (SwiftData), and remains there until you delete it or uninstall the app. It is never transmitted to the developer.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p2" datatype="html">
+        <source>There is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no account, no registration, no tracking, no analytics, and no ads<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. The app does not collect personal information, device identifiers, or usage statistics.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s2.p3" datatype="html">
+        <source>Where processing falls under the GDPR, its legal basis is the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>performance of a contract<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (Art. 6(1)(b)): providing the workout-tracking service you requested.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">21,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s3.h" datatype="html">
+        <source>iCloud sync (Premium)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s3.p1" datatype="html">
+        <source>If you subscribe to Premium, your workout data is synced across your devices via <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Apple CloudKit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, in your private iCloud database. This data is tied to your Apple ID, encrypted by Apple, and <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>not accessible to the developer<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> under any circumstances.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s3.p2" datatype="html">
+        <source>Apple may store iCloud data on servers located outside the European Union, including in the United States. These transfers are governed by Apple&apos;s own safeguards, including the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>EU-U.S. Data Privacy Framework<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> and standard contractual clauses. See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.apple.com/legal/privacy/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>Apple&apos;s privacy policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for details.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s4.h" datatype="html">
+        <source>Premium subscription &amp; payments</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s4.p1" datatype="html">
+        <source>The Premium subscription is purchased and billed exclusively through <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Apple&apos;s App Store<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Payment is processed by Apple: the developer <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>never receives your payment details<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (card number, billing address, or identity). Apple only provides the developer with anonymized, aggregated transaction reports needed to operate the service.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">38,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s5.h" datatype="html">
+        <source>Apple Health</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s5.p1" datatype="html">
+        <source>If — and only if — you grant permission, IntuiFit writes workout summaries to Apple Health. The app <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>never reads<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> any data from Apple Health, and Health data is never transmitted to the developer or any third party.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s6.h" datatype="html">
+        <source>Third parties</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s6.p1" datatype="html">
+        <source>No data is sold, shared, or transferred to third parties. IntuiFit contains no third-party SDKs, advertising frameworks, or analytics services.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">54,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s7.h" datatype="html">
+        <source>Support emails</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s7.p1" datatype="html">
+        <source>If you contact support, we process your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>email address and the content of your message<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> for the sole purpose of answering you (legal basis: our legitimate interest in providing support, Art. 6(1)(f) GDPR). Support emails are kept only as long as needed to resolve your request, and no longer than <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>two years<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, then deleted.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">62,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s8.h" datatype="html">
+        <source>This website</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s8.p1" datatype="html">
+        <source>This website is edited by Gaétan La Selve as a private individual, and hosted on <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>GitHub Pages<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, operated by GitHub, Inc., 88 Colin P. Kelly Jr Street, San Francisco, CA 94107, USA. Like any web host, GitHub may log visitors&apos; IP addresses for security and operational purposes; see <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>GitHub&apos;s privacy statement<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s8.p2" datatype="html">
+        <source>The website itself sets <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no cookies<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, runs <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no analytics<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, and loads <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>no third-party resources<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> — fonts are self-hosted, so no request is sent to font providers.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">71,73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s9.h" datatype="html">
+        <source>Data deletion</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s9.p1" datatype="html">
+        <source>Deleting the app removes all local data from your device. If you used iCloud sync, you can delete the synced data at any time via iOS <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Settings → iCloud → Manage Storage<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">79,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s10.h" datatype="html">
+        <source>Your rights</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s10.p1" datatype="html">
+        <source>Because the developer is established in France, the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>GDPR applies to all users<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, wherever you are located. You may exercise at any time your rights of <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>access, rectification, erasure, portability, restriction of processing, and objection<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> by emailing <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:codebygaetan@gmail.com&quot;&gt;"/>codebygaetan@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. Note that since all workout data lives on your device or in your private iCloud, you already hold direct control over it.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">87,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s10.p2" datatype="html">
+        <source>You also have the right to lodge a complaint with a supervisory authority — in France, the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>CNIL<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.cnil.fr&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/>cnil.fr<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>) — or with the authority of your country of residence.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">88,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s11.h" datatype="html">
+        <source>Changes to this policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">95,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacy.s11.p1" datatype="html">
+        <source>This policy may be updated to reflect changes in the app or in applicable law. The current version is always available at this address, with its &quot;last updated&quot; date shown above. Material changes will be highlighted in the app&apos;s release notes.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/privacy/privacy.html</context>
+          <context context-type="linenumber">96,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.eyebrow" datatype="html">
+        <source>Need a hand?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.title" datatype="html">
+        <source>Support</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.sub" datatype="html">
+        <source>Questions, bugs, ideas — there&apos;s a human on the other side, and he lifts too.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.email.label" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.email.meta" datatype="html">
+        <source>Usually answered within 48 hours.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.q1" datatype="html">
+        <source>How do I log a set?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.a1" datatype="html">
+        <source>Tap an exercise on the Home screen, adjust weight and reps with the steppers, tap <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>&quot;Validate set&quot;<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">20,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.q2" datatype="html">
+        <source>Where is my data stored?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.a2" datatype="html">
+        <source>Locally on your device. iCloud sync is available with <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Premium<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">25,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.q3" datatype="html">
+        <source>How do I cancel Premium?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.a3" datatype="html">
+        <source>Go to iOS <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Settings → Apple ID → Subscriptions → IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">30,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.q4" datatype="html">
+        <source>I found a bug, how do I report it?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="support.faq.a4" datatype="html">
+        <source>Email <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>codebygaetan@gmail.com<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> with your iOS version and a description of the issue.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/support/support.html</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="badge.aria" datatype="html">
+        <source>Download IntuiFit on the App Store</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/store-badge/store-badge.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="badge.download" datatype="html">
+        <source>Download on the</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/store-badge/store-badge.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

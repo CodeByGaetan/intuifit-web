@@ -3,14 +3,14 @@
     <div class="wrap hero-grid">
       <div>
         <div class="app-icon reveal d1"><img src="logo.svg" alt="IntuiFit app icon" /></div>
-        <h1 class="reveal d2">Log a set<br />in <span class="accent">3 seconds</span>.</h1>
-        <p class="tagline reveal d3">No setup. No ads. <strong>IntuiFit</strong> is the workout tracker that gets out of your way — open it, validate your set, get back to lifting.</p>
+        <h1 class="reveal d2" i18n="@@home.hero.title">Log a set<br />in <span class="accent">3 seconds</span>.</h1>
+        <p class="tagline reveal d3" i18n="@@home.hero.tagline">No setup. No ads. <strong>IntuiFit</strong> is the workout tracker that gets out of your way — open it, validate your set, get back to lifting.</p>
         <app-store-badge class="reveal d4" />
       </div>
 
       <div class="phone reveal d5" aria-hidden="true">
         <div class="phone-screen">
-          <div class="exo">Bench Press <span class="set-count">Set <b>3</b>/4</span></div>
+          <div class="exo"><span i18n="@@home.mock.exercise">Bench Press</span> <span class="set-count" i18n="@@home.mock.setcount">Set <b>3</b>/4</span></div>
           <div class="stepper">
             <div class="btn">−</div>
             <div class="val">80<small>KG</small></div>
@@ -18,10 +18,10 @@
           </div>
           <div class="stepper">
             <div class="btn">−</div>
-            <div class="val">8<small>Reps</small></div>
+            <div class="val">8<small i18n="@@home.mock.reps">Reps</small></div>
             <div class="btn">+</div>
           </div>
-          <div class="validate">Validate set</div>
+          <div class="validate" i18n="@@home.mock.validate">Validate set</div>
         </div>
       </div>
     </div>
@@ -29,39 +29,39 @@
 
   <section class="stats">
     <div class="wrap stats-inner">
-      <div class="stat"><div class="num">3s</div><div class="lbl">To log a set</div></div>
-      <div class="stat"><div class="num">0</div><div class="lbl">Ads, ever</div></div>
-      <div class="stat"><div class="num">0</div><div class="lbl">Setup required</div></div>
+      <div class="stat"><div class="num">3s</div><div class="lbl" i18n="@@home.stats.log">To log a set</div></div>
+      <div class="stat"><div class="num">0</div><div class="lbl" i18n="@@home.stats.ads">Ads, ever</div></div>
+      <div class="stat"><div class="num">0</div><div class="lbl" i18n="@@home.stats.setup">Setup required</div></div>
     </div>
   </section>
 
   <section class="features">
     <div class="wrap">
-      <p class="eyebrow">Why IntuiFit</p>
+      <p class="eyebrow" i18n="@@home.features.eyebrow">Why IntuiFit</p>
     </div>
     <div class="wrap features-grid">
       <article class="card">
         <div class="idx">01</div>
-        <h3>3-second logging</h3>
-        <p>Giant steppers, one tap to validate, done.</p>
+        <h3 i18n="@@home.features.1.title">3-second logging</h3>
+        <p i18n="@@home.features.1.body">Giant steppers, one tap to validate, done.</p>
       </article>
       <article class="card">
         <div class="idx">02</div>
-        <h3>Zero setup</h3>
-        <p>No program to build. IntuiFit learns from how you train.</p>
+        <h3 i18n="@@home.features.2.title">Zero setup</h3>
+        <p i18n="@@home.features.2.body">No program to build. IntuiFit learns from how you train.</p>
       </article>
       <article class="card">
         <div class="idx">03</div>
-        <h3>No ads. Ever.</h3>
-        <p>Free forever for unlimited tracking. Premium = iCloud sync.</p>
+        <h3 i18n="@@home.features.3.title">No ads. Ever.</h3>
+        <p i18n="@@home.features.3.body">Free forever for unlimited tracking. Premium = iCloud sync.</p>
       </article>
     </div>
   </section>
 
   <section class="cta">
     <div class="wrap">
-      <h2>Your next set<br />starts <span class="accent">now</span>.</h2>
-      <p>Free forever for unlimited tracking. No account needed.</p>
+      <h2 i18n="@@home.cta.title">Your next set<br />starts <span class="accent">now</span>.</h2>
+      <p i18n="@@home.cta.body">Free forever for unlimited tracking. No account needed.</p>
       <app-store-badge />
     </div>
   </section>
