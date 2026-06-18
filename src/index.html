@@ -20,13 +20,21 @@
       try {
         var base = document.querySelector('base');
         var href = base ? base.getAttribute('href') : '/';
-        var onFr = /\/fr\/$/.test(href);
+        // In dev (ng serve) the per-locale <base href> isn't injected, so also
+        // inspect the path — otherwise onFr is never true and a FR browser keeps
+        // replacing the location, causing an infinite reload loop.
+        var onFr = /\/fr\/$/.test(href) || /(^|\/)fr(\/|$)/.test(location.pathname);
         var stored = localStorage.getItem('intuifit-lang'); // 'en' | 'fr' | null
         var want = stored || ((navigator.language || 'en').toLowerCase().indexOf('fr') === 0 ? 'fr' : 'en');
+        var target = null;
         if (want === 'fr' && !onFr) {
-          location.replace(href + 'fr/' + location.hash);
+          target = href + 'fr/' + location.hash;
         } else if (want === 'en' && onFr) {
-          location.replace(href.replace(/fr\/$/, '') + location.hash);
+          target = href.replace(/fr\/$/, '') + location.hash;
+        }
+        // Never replace toward the URL we're already on — the loop guard.
+        if (target && target !== location.pathname + location.hash) {
+          location.replace(target);
         }
       } catch (e) {}
     })();

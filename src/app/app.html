@@ -2,8 +2,6 @@
   <div class="wrap nav-inner">
     <a class="logo" routerLink="/"><img class="logo-mark" src="logo.svg" alt="" />Intui<span class="fit">Fit</span></a>
     <nav class="nav-links">
-      <a routerLink="/support" routerLinkActive="active" i18n="@@nav.support">Support</a>
-      <a routerLink="/privacy" routerLinkActive="active" i18n="@@nav.privacy">Privacy</a>
       <span class="lang-switch">
         <a [href]="langHref('en')" (click)="setLang('en')" [class.active]="currentLang === 'en'" hreflang="en">EN</a>
         <a [href]="langHref('fr')" (click)="setLang('fr')" [class.active]="currentLang === 'fr'" hreflang="fr">FR</a>
