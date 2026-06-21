@@ -34,21 +34,9 @@
         <source>No setup. No ads. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> is the workout tracker that gets out of your way — open it, validate your set, get back to lifting.</source>
         <target>Aucune configuration. Aucune pub. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>IntuiFit<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> est le tracker de musculation qui se fait oublier : tu l'ouvres, tu valides ta série, tu retournes soulever.</target>
       </trans-unit>
-      <trans-unit id="home.mock.exercise" datatype="html">
-        <source>Bench Press</source>
-        <target>Développé couché</target>
-      </trans-unit>
-      <trans-unit id="home.mock.setcount" datatype="html">
-        <source>Set <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</source>
-        <target>Série <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</target>
-      </trans-unit>
-      <trans-unit id="home.mock.reps" datatype="html">
-        <source>Reps</source>
-        <target>Reps</target>
-      </trans-unit>
-      <trans-unit id="home.mock.validate" datatype="html">
-        <source>Validate set</source>
-        <target>Valider la série</target>
+      <trans-unit id="home.mock.screenshot" datatype="html">
+        <source>screen-speed-en.png</source>
+        <target>screen-speed-fr.png</target>
       </trans-unit>
       <trans-unit id="home.stats.log" datatype="html">
         <source>To log a set</source>

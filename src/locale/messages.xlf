@@ -66,32 +66,11 @@
           <context context-type="linenumber">7,8</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="home.mock.exercise" datatype="html">
-        <source>Bench Press</source>
+      <trans-unit id="home.mock.screenshot" datatype="html">
+        <source>screen-speed-en.png</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/home/home.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="home.mock.setcount" datatype="html">
-        <source>Set <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>3<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>/4</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/pages/home/home.html</context>
-          <context context-type="linenumber">13,14</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="home.mock.reps" datatype="html">
-        <source>Reps</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/pages/home/home.html</context>
-          <context context-type="linenumber">21,22</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="home.mock.validate" datatype="html">
-        <source>Validate set</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/pages/home/home.html</context>
-          <context context-type="linenumber">24,26</context>
+          <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="home.stats.log" datatype="html">

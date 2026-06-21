@@ -268,7 +268,7 @@ a { color: inherit; text-decoration: none; }
   color: #fff;
 }
 
-/* ---------- Phone mock (CSS-only render of the active-set screen) ---------- */
+/* ---------- Phone mock (real app screenshot of the active-set screen) ---------- */
 
 .phone {
   justify-self: center;
@@ -285,78 +285,11 @@ a { color: inherit; text-decoration: none; }
 }
 
 .phone-screen {
-  border-radius: 34px;
-  background: linear-gradient(180deg, #101010 0%, #090909 100%);
-  border: 1px solid var(--line);
-  padding: 26px 20px 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.phone .exo {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--text);
-}
-
-.phone .exo .set-count { color: var(--faint); letter-spacing: 0.08em; }
-.phone .exo .set-count b { color: var(--lime); font-weight: 500; }
-
-.phone .stepper {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: var(--glass);
-  border: 1px solid var(--line);
-  border-radius: 22px;
-  padding: 16px 16px;
-}
-
-.phone .stepper .btn {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  border: 1px solid var(--line-strong);
-  background: rgba(255, 255, 255, 0.05);
-  display: grid;
-  place-items: center;
-  font-family: var(--font-mono);
-  font-size: 19px;
-  color: var(--text);
-}
-
-.phone .stepper .val {
-  text-align: center;
-  font-family: var(--font-display);
-  font-size: 58px;
-  line-height: 0.9;
-}
-
-.phone .stepper .val small {
   display: block;
-  font-family: var(--font-mono);
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  color: var(--faint);
-  margin-top: 7px;
-}
-
-.phone .validate {
-  border-radius: 20px;
-  background: var(--lime);
-  color: #0a0a0a;
-  font-family: var(--font-display);
-  font-size: 26px;
-  letter-spacing: 0.06em;
-  text-align: center;
-  padding: 17px 0 13px;
-  box-shadow: 0 0 44px rgba(200, 255, 74, 0.3);
+  width: 100%;
+  height: auto;
+  border-radius: 34px;
+  border: 1px solid var(--line);
 }
 
 /* ---------- Stats strip ---------- */
