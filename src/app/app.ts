@@ -1,13 +1,13 @@
-import { Component, inject } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
+import { Component, inject } from '@angular/core';
 import { Meta } from '@angular/platform-browser';
-import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 const LANG_KEY = 'intuifit-lang';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, RouterLink, RouterLinkActive],
+  imports: [RouterOutlet, RouterLink],
   templateUrl: './app.html',
 })
 export class App {
